@@ -1,5 +1,5 @@
 """
-Entrainement modele 1D-CNN pour detection deconnexions GSM-R
+Entrainement modele 1D-CNN pour detection deconnexions GSM-R.s
 """
 
 import numpy as np
