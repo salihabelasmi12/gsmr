@@ -1,0 +1,19 @@
+{
+  "test_accuracy": 0.8591065292096219,
+  "test_precision": 0.8513513513513513,
+  "test_recall": 0.8689655172413793,
+  "test_f1": 0.8600682593856656,
+  "false_alert_rate": 0.1506849315068493,
+  "features": [
+    "call_setup_duration_sec",
+    "transaction_duration_sec",
+    "hour",
+    "day_of_week",
+    "is_weekend",
+    "is_night",
+    "duration_very_short",
+    "duration_very_long",
+    "slow_setup"
+  ],
+  "note": "NO DATA LEAKAGE - Only features available DURING session"
+}

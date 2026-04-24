@@ -1,0 +1,20 @@
+{
+  "window_size": 20,
+  "step_size": 5,
+  "n_features": 9,
+  "features": [
+    "rxqual_value",
+    "rxlev_dbm",
+    "km_value",
+    "hour",
+    "day_of_week",
+    "is_weekend",
+    "has_hdlc_retrans",
+    "com_dte_dce_ok",
+    "voisinage_ok"
+  ],
+  "test_accuracy": 0.7446808510638298,
+  "test_precision": 0.0,
+  "test_recall": 0.0,
+  "test_f1": 0.0
+}
